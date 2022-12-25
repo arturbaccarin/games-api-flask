@@ -25,3 +25,7 @@
 * Docker compose;
 * Postgres.
 
+### Future Improvements
+* Improve Swagger;
+* Create a Postgres DB tests (it uses SQLite for tests);
+* Add some Error Messages like Bad Request.
