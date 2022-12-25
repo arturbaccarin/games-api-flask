@@ -1,0 +1,11 @@
+# files
+.coverage
+*.md
+*.db
+
+# folders
+/venv
+/instance
+/__pycache__
+/.pytest_cache
+/htmlcov
