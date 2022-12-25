@@ -3,7 +3,7 @@ from config import DevelopmentConfig
 from models import Game, Developer
 import json
 from flask import Flask, request, Response
-from flask_restx import Api, Resource, fields, reqparse
+from flask_restx import Api, Resource, fields
 
 
 app = Flask(__name__)
